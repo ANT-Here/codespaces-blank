@@ -1,0 +1,35 @@
+01. Entrada:
+Arquivo: meu_projeto.py
+Linha 24: StartGambling()
+Explicação: quando voce iniciar o programa ira iniciar o giro 
+
+02. Saída:
+Arquivo: meu_projeto.py
+Linha 18: print(f"spin: {spin}")
+Explicação: mostrara o resultado do seu giro
+
+03. Variáveis:
+Arquivo: meu_projeto.py
+Linha 16: Fruit = ["cherry", "lemon", "orange", "apple"]
+Explicação: A Variavel dos simbolos que serão usado para o giro
+
+04. Sub-rotinas:
+Arquivo: meu_projeto.py
+Linha 15: def StartGambling():
+Explicação: Define a função do StartGambling
+
+05. Estrutura de decisoes:
+Arquivo: meu_projeto.py
+Linha 21 - 22: else:
+                print("AW, dang it...")
+Explicação: se o resultado for bagunçado vai mandar a mensagem:"AW, dang it..."
+
+06. Operadores:
+Arquivo: meu_projeto.py
+Linha 19: if spin[0] == spin[1] == spin[2]:
+Explicação: Vai ver se cada symbolo do giro estão iguais
+
+07. Estruturas de repetição:
+Arquivo: meu_projeto.py
+Linha 17:  spin = [choice(Fruit) for _ in range(3)]
+Explicação: ira roletar tres simbolos aleatoreamente apos o giro
