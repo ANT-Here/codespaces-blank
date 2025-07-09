@@ -1,4 +1,4 @@
-01. Entrada:
+k as01. Entrada:
 Arquivo: meu_projeto.py
 Linha 24: StartGambling()
 Explicação: quando voce iniciar o programa ira iniciar o giro 
